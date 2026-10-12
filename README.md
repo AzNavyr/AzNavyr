@@ -42,7 +42,7 @@ QA Engineer with hands-on experience in manual testing of mobile applications, t
 - **Programming Foundations: Databases** — LinkedIn Learning (February 2025)
 - **Automated Testing** — Netology (April 2023)
 
-> Credential links can be added to individual certificate titles when public verification URLs are available. The Credly dashboard link is account-specific and may require sign-in, so it is not presented as a public badge profile.
+
 
 ## Education
 
